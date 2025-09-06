@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Gillian  
+# 👋 Hey, I'm Gil  
 
 🎓 Computer Engineering sophomore • 💻 Learning **fullstack dev** (focusing on **backend**)  
 
