@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Gil  
 
-🎓 Computer Engineering sophomore • 💻 Learning **fullstack dev** (focusing on **backend**)  
+🎓 Computer Engineering sophomore • 💻 Learning backend dev
 
 ### 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
