@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Gil  
 
-🎓 Computer Engineering sophomore • 💻 Learning backend dev
+🎓 Computer Engineering Student 
+💻 Learning Backend Development
 
 I build secure APIs, backend systems, and automation tools. With experience in authentication (JWT), RBAC, database design, and multi-platform integrations. Also comfortable working with React when building full-stack apps.
 
