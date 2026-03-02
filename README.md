@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering sophomore • 💻 Learning backend dev
 
-I build secure APIs, backend systems, and automation tools — with experience in authentication (JWT), RBAC, database design, and multi-platform integrations. Also comfortable working with React when building full-stack apps.
+I build secure APIs, backend systems, and automation tools. With experience in authentication (JWT), RBAC, database design, and multi-platform integrations. Also comfortable working with React when building full-stack apps.
 
 ### 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
